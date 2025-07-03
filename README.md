@@ -1,85 +1,91 @@
-<h1 align="center">Hi 👋, I'm Harsh Raj</h1>
-<h3 align="center">🚀 A passionate Data Science Student and Full-Stack Developer</h3>
+<h1 align="center">👋 Hi, I'm Harsh Raj</h1>
+<h3 align="center">🚀 4th Year Computer Science (Data Science) Student | AI/ML & Full-Stack Developer</h3>
 
 ---
 
-## 🧭 About Me
-
-🎓 BTech in Computer Science (Data Science) at NIET, Greater Noida (CGPA: 8.2 so far)  
-🔭 I’m passionate about building production-grade AI/ML solutions, cloud deployment, and full-stack apps.  
-🌱 Always learning new technologies, applying them to solve real-world problems.  
-💻 Currently working with Python, SQL, Machine Learning, Cloud platforms like AWS, and container tools like Docker and Kubernetes.  
-📫 Email: harshraj1356@gmail.com
+### 👋 About Me:
+I am a 4th Year Engineering student with a strong passion for AI/ML, Data Science, Security Systems, and Full-Stack Web Development. I build production-ready ML solutions, integrate them into real-world apps, deploy them on cloud platforms, and design user-friendly dashboards. Always learning and building to solve real-world problems.
 
 ---
 
-## 🚀 Tech Stack
+### 🛠 Tech Stack:
 
-### 🧩 Languages
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-blue?logo=sqlite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
+#### 💻 *Programming & Scripting:*
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🌐 Frameworks & Tools
-![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+#### 🌐 *Frameworks, Tools & Cloud:*
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 📊 Data Science & ML
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=google-colab&logoColor=white)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
+#### 📊 *Data Science & AI/ML:*
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
----
-
-## 📌 Featured Projects
-
-### 🛡️ Zero Trust DNS Gateway
-- Python, SQLite, Streamlit, dnslib
-- Monitors and controls 1000+ outbound DNS queries per day with real-time blocking.
-- Features IP-based unique client tracking, case-insensitive domain blocking, geo-tagged logging.
-- Built an interactive Streamlit dashboard with live metrics and instant policy updates.
-
-### 🧪 Wafer Fault Detection System
-- Python, Scikit-learn, Pandas, NumPy
-- ML solution with 90% accuracy for semiconductor fault detection.
-- Worked on 200+ features with advanced data cleaning and feature engineering.
-- Reduced projected defect rates by 20–30% in simulation.
+#### ☁ *Deployment & Version Control:*
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🎓 Certificates
-- **Data Analytics Job Simulation (Deloitte)** – Credential ID: XCBf9ok99dCFKjREo
-- **Building Machine Learning Systems with TensorFlow (IBM)**
-- **Python for Data Science, AI & Development (IBM)** – Credential ID: YJ28LUKZEGUH
-- **IBM Getting Started with Enterprise-Grade AI**
+### ✅ *Featured Projects:*
+- 🛡️ **Zero Trust DNS Gateway** – Python, SQLite, Streamlit, dnslib  
+  - Monitors 1000+ DNS queries daily with real-time blocking and geo-based filtering.
+  - Live Streamlit dashboard with blocking policy updates, email alerts, and Chrome DNS cache flushing.
+  - Audit logs with 5000+ query records, client IP tracking, and subdomain-aware blocking.
+
+- ⚡ **Wafer Fault Detection System** – Python, Scikit-learn, Pandas, NumPy  
+  - ML solution achieving 90% accuracy for semiconductor fault detection.
+  - Processed 200+ features with advanced data cleaning, reducing defect rates by 20–30% in simulation.
 
 ---
 
-## 📈 GitHub Stats
+### 🎓 *Certificates:*
+- 📜 Data Analytics Job Simulation (Deloitte) – Credential ID: XCBf9ok99dCFKjREo
+- 📜 Building Machine Learning Systems with TensorFlow (IBM)
+- 📜 Python for Data Science, AI & Development (IBM) – Credential ID: YJ28LUKZEGUH
+- 📜 IBM Getting Started with Enterprise-Grade AI
 
+---
+
+### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshR082&show_icons=true&theme=radical" alt="HarshR082's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshR082&show_icons=true&theme=dark" alt="HarshR082's GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshR082&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshR082&layout=compact&theme=dark" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshR082&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🤝 Connect with me
-- 💼 [GitHub](https://github.com/HarshR082)
-- 📧 harshraj1356@gmail.com
+### 🗓 GitHub Contribution Graph:
+<p align="center">
+  <a href="https://github.com/HarshR082">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshR082&theme=github-compact" alt="activity graph" />
+  </a>
+</p>
 
 ---
 
-⭐️ *Always eager to collaborate on exciting projects!*
+### 🔗 Connect with me:
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshR082)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshraj1356@gmail.com)
+
+---
+
+⭐️ *Always open to collaborate on interesting projects!*
