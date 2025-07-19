@@ -48,7 +48,7 @@ I am a 4th Year Engineering student with a strong passion for AI/ML, Data Scienc
   - Live Streamlit dashboard with blocking policy updates, email alerts, and Chrome DNS cache flushing.
   - Audit logs with 5000+ query records, client IP tracking, and subdomain-aware blocking.
 
-- ⚡ **GenAI Research Summarization Assistant | Streamlit, FastAPI, API, LangChain, TXT Parsing 
+- ⚡ **GenAI Research Summarization Assistant** | Streamlit, FastAPI, API, LangChain, TXT Parsing 
   - Integrated Groq API with LLaMA 3 using LangChain to enable sub-100ms LLM inference for real-time Q&A and
     logic-based quiz generation from PDF/TXT documents.
   - Engineered dual-mode workflow: free-form contextual Q&A and a question auto-evaluator, each grounded in
