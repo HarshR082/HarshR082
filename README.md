@@ -48,9 +48,15 @@ I am a 4th Year Engineering student with a strong passion for AI/ML, Data Scienc
   - Live Streamlit dashboard with blocking policy updates, email alerts, and Chrome DNS cache flushing.
   - Audit logs with 5000+ query records, client IP tracking, and subdomain-aware blocking.
 
-- ⚡ **Wafer Fault Detection System** – Python, Scikit-learn, Pandas, NumPy  
-  - ML solution achieving 90% accuracy for semiconductor fault detection.
-  - Processed 200+ features with advanced data cleaning, reducing defect rates by 20–30% in simulation.
+- ⚡ **GenAI Research Summarization Assistant | Streamlit, FastAPI, API, LangChain, TXT Parsing 
+  - Integrated Groq API with LLaMA 3 using LangChain to enable sub-100ms LLM inference for real-time Q&A and
+    logic-based quiz generation from PDF/TXT documents.
+  - Engineered dual-mode workflow: free-form contextual Q&A and a question auto-evaluator, each grounded in
+    document sections using token-level indexing.
+  - Built a modular backend with FastAPI and async pipelines for high-throughput document ingestion, embedding,
+    and chunked retrieval-based reasoning.
+  - Developed an interactive Streamlit interface with document upload, auto-summary (≤150 words), memory-based
+    follow-up support, and snippet-level answer justification.
 
 ---
 
