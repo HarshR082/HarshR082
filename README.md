@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Harsh Raj</h1>
-<h3 align="center">🚀 4th Year Computer Science (Data Science) Student | AI/ML & Full-Stack Developer</h3>
+<h3 align="center">🚀 4th Year Computer Science (Data Science) Student | AI/ML & DevOps Engineer</h3>
 
 ---
 
