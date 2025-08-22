@@ -39,6 +39,7 @@ I am a 4th Year Engineering student with a strong passion for AI/ML, Data Scienc
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://camo.githubusercontent.com/a1b0d308fd81d69d6cb59b067d1aa0d24ad250494bbe15d7e00086315e77ce59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3234393645443f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465)
 
 ---
 
